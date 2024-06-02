@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [如何](#如何)
@@ -37,6 +38,15 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/config/mousebind.html) |
+
+
+
+
+## 字型
+
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment/tree/main/prototype/main/font-config/font-match-order) |
 
 
 
