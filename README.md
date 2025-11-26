@@ -9,9 +9,6 @@
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/cheatsheet/keybind.html)
-
-
 
 
 ## 主題
@@ -31,15 +28,18 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Kde Plasma](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Ultramarine Kde Plasma Config](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
 
 ## 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/cheatsheet/keybind.html)
+
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/read/config/mousebind.html) |
 
